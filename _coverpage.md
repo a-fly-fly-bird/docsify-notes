@@ -4,7 +4,7 @@
 
 > 热爱生活，追求智慧。
 
-- Simple and lightweight
+-  
 - No statically built html files
 - Multiple themes
 
